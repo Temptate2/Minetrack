@@ -1,12 +1,227 @@
 [
-	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
-	}
+  {
+    "name": "Hypixel",
+    "ip": "mc.hypixel.net",
+    "type": "PC"
+  },
+  {
+    "name": "CubeCraft",
+    "ip": "play.cubecraft.net",
+    "type": "PC"
+  },
+  {
+    "name": "Nihilium",
+    "ip": "nihilium.org",
+    "type": "PC"
+  },
+  {
+    "name": "2b2t",
+    "ip": "2b2t.org",
+    "type": "PC"
+  },
+  {
+    "name": "6b6t",
+    "ip": "6b6t.org",
+    "type": "PC"
+  },
+  {
+    "name": "VanillaPlus",
+    "ip": "play.vanillaplus.net",
+    "type": "PC"
+  },
+  {
+    "name": "9b9t",
+    "ip": "9b9t.com",
+    "type": "PC"
+  },
+  {
+    "name": "SimpCraft",
+    "ip": "simpcraft.com",
+    "type": "PC"
+  },
+  {
+    "name": "P-Anarchy",
+    "ip": "mc.p-anarchy.com",
+    "type": "PC"
+  },
+  {
+    "name": "Constantiam",
+    "ip": "constantiam.net",
+    "type": "PC"
+  },
+  {
+    "name": "0b0t",
+    "ip": "0b0t.org",
+    "type": "PC"
+  },
+  {
+    "name": "Purity Vanilla",
+    "ip": "purityvanilla.com",
+    "type": "PC"
+  },
+  {
+    "name": "Oldfag",
+    "ip": "oldfag.org",
+    "type": "PC"
+  },
+  {
+    "name": "3b3t",
+    "ip": "3b3t.org",
+    "type": "PC"
+  },
+  {
+    "name": "8b8t",
+    "ip": "8b8t.me",
+    "type": "PC"
+  },
+  {
+    "name": "5b5t",
+    "ip": "5b5t.org",
+    "type": "PC"
+  },
+  {
+    "name": "Avas",
+    "ip": "avas.cc",
+    "type": "PC"
+  },
+  {
+    "name": "Phoenix Anarchy",
+    "ip": "phoenixanarchy.com",
+    "type": "PC"
+  },
+  {
+    "name": "Uneasy Vanilla",
+    "ip": "uneasyvanilla.com",
+    "type": "PC"
+  },
+  {
+    "name": "Quilt Anarchy",
+    "ip": "mc.quiltanarchy.xyz",
+    "type": "PC"
+  },
+  {
+    "name": "Jonarchy",
+    "ip": "Jonarchy.com",
+    "type": "PC"
+  },
+  {
+    "name": "1b2t",
+    "ip": "mc.1b2t.xyz",
+    "type": "PC"
+  },
+  {
+    "name": "Simpvp",
+    "ip": "simpvp.net",
+    "type": "PC"
+  },
+  {
+    "name": "Anarchy AC",
+    "ip": "anarchy.ac",
+    "type": "PC"
+  },
+  {
+    "name": "2b2t Argentina",
+    "ip": "2b2t.com.ar",
+    "type": "PC"
+  },
+  {
+    "name": "10b10t",
+    "ip": "10b10t.com",
+    "type": "PC"
+  },
+  {
+    "name": "2p2t",
+    "ip": "2p2t.org",
+    "type": "PC"
+  },
+  {
+    "name": "Nobnot",
+    "ip": "nobnot.org",
+    "type": "PC"
+  },
+  {
+    "name": "7b7t",
+    "ip": "7b7t.net",
+    "type": "PC"
+  },
+  {
+    "name": "Anarchy Network",
+    "ip": "anarchynetwork.net",
+    "type": "PC"
+  },
+  {
+    "name": "Alacity",
+    "ip": "alacity.org",
+    "type": "PC"
+  },
+  {
+    "name": "EndCrystal",
+    "ip": "endcrystal.me",
+    "type": "PC"
+  },
+  {
+    "name": "MineTexas",
+    "ip": "MineTexas.com",
+    "type": "PC"
+  },
+  {
+    "name": "VforV",
+    "ip": "vforv.net",
+    "type": "PC"
+  },
+  {
+    "name": "Hisparquia",
+    "ip": "hisparquia.net",
+    "type": "PC"
+  },
+  {
+    "name": "1b1t",
+    "ip": "1b1t.cc",
+    "type": "PC"
+  },
+  {
+    "name": "1f2d",
+    "ip": "1f2d.net",
+    "type": "PC"
+  },
+  {
+    "name": "Minecraft Offline",
+    "ip": "minecraftoffline.net",
+    "type": "PC"
+  },
+  {
+    "name": "6a6k",
+    "ip": "6a6k.us",
+    "type": "PC"
+  },
+  {
+    "name": "3b3t PW",
+    "ip": "3b3t.pw",
+    "type": "PC"
+  },
+  {
+    "name": "2b2t Museum",
+    "ip": "2b2tmuseum.org",
+    "type": "PC"
+  },
+  {
+    "name": "2f2f",
+    "ip": "2f2f.me",
+    "type": "PC"
+  },
+  {
+    "name": "End Portal",
+    "ip": "endportal.org",
+    "type": "PC"
+  },
+  {
+    "name": "ReinosMC",
+    "ip": "reinosmc.net",
+    "type": "PC"
+  },
+  {
+    "name": "2btr",
+    "ip": "2btr.org",
+    "type": "PC"
+  }
 ]
